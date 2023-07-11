@@ -39,5 +39,9 @@ add raw_hybrid_NoAirTrick/raw/sound/birthday_sound/se_rangers_ud02_birthday.acb
 add raw_hybrid_NoAirTrick/raw/sound/sonic_sound/se_rangers_player_sonic.acb
 add raw_TheEnd_vandalize/raw/sound/the_end01_sound/bgm_lastboss.acb
 add raw_TheEnd_vandalize/raw/sound/the_end01_sound/bgm_lastboss.awb
+add raw_TheEnd_onewaydream/raw/sound/the_end01_sound/bgm_lastboss.acb
+add raw_TheEnd_onewaydream/raw/sound/the_end01_sound/bgm_lastboss.awb
+add raw_TheEnd_dummy/raw/sound/the_end01_sound/bgm_lastboss.acb
+add raw_TheEnd_dummy/raw/sound/the_end01_sound/bgm_lastboss.awb
 add mod.ini
 add SoundOptions.json
