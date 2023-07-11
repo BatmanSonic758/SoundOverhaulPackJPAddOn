@@ -124,14 +124,14 @@
        },
        {
          "DisplayName": "One Way Dream",
-         "Value": "dummy",
+         "Value": "raw_TheEnd_onewaydream",
          "Description": [
            "Replacing ''I'm With You'' with ''One Way Dream''."
          ]
        },
        {
          "DisplayName": "I'm With You",
-         "Value": "dummy",
+         "Value": "raw_TheEnd_dummy",
          "Description": [
            "Does not modify The End's theme."
 		     ]
