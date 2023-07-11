@@ -1,3 +1,7 @@
+## Version 1.1.5 Hotfix
+- Fixed Custom Presets being absent in both Add-Ons... for those who use them...
+- Fixed "I'm With You" missing directory error and "One Way Dream" not working in the JP Add-On.
+
 ## Version 1.1.4 Hotfix
 - Fixed Sonic's English VO still playing when interacting with some objects.
 
