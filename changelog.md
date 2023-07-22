@@ -1,3 +1,6 @@
+## Version 1.6 Update
+- Supports the new features.
+
 ## Version 1.1.5 Hotfix
 - Fixed Custom Presets being absent in both Add-Ons... for those who use them...
 - Fixed "I'm With You" missing directory error and "One Way Dream" not working in the JP Add-On.
