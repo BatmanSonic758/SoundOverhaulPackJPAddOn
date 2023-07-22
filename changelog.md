@@ -1,4 +1,4 @@
-## Version 1.6 Update
+## Version 1.2 Update
 - Supports the new features.
 
 ## Version 1.1.5 Hotfix
